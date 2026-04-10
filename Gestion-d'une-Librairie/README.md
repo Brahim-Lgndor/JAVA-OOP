@@ -26,46 +26,7 @@ This Java application is designed to automate the management of a library's inve
    javac *.java
 
 # 👇🏻 OUTPUT
-Livre ajouté: POO en Java
-Livre ajouté: Algorithmes Avancés
 
---- Liste des produits de la librairie (2 éléments) ---
-LivreCode: L001, Titre: POO en Java, Prix HT: 30.0$ (Auteur: M. Dupont, Pages: 450)
-LivreCode: L002, Titre: Algorithmes Avancés, Prix HT: 45.5$ (Auteur: Mme. Dubois, Pages: 620)
--------------------------------------------------------------------
-
-*** Total des prix TTC de tous les produits: 79.28€ ***
-
---- Test de recherche réussie (L001) ---
-Produit trouvé: POO en Java
-
---- Test de recherche qui échoue (Z999) ---
-Géré: Le produit avec le code 'Z999' n'a pas été trouvé dans la librairie.
-
---- Test de suppression (L002) ---
-Produit supprimé: Algorithmes Avancés
-
---- Liste des produits de la librairie (1 éléments) ---
-LivreCode: L001, Titre: POO en Java, Prix HT: 30.0$ (Auteur: M. Dupont, Pages: 450)
--------------------------------------------------------------------
-Magazine ajouté: Programmation Aujourd'hui
-Magazine ajouté: Les Nouvelles Tech
-
---- Liste des produits de la librairie (2 éléments) ---
-MagazineCode: M001, Titre: Programmation Aujourd'hui, Prix HT: 7.99$ (Mois: 12, Numéro: 150)
-MagazineCode: M002, Titre: Les Nouvelles Tech, Prix HT: 5.0$ (Mois: 1, Numéro: 151)
--------------------------------------------------------------------
-
-*** Total des prix TTC de tous les produits: 13.64€ ***
-
---- Test de recherche réussie (M001) ---
-Produit trouvé: Programmation Aujourd'hui
-
---- Test de recherche qui échoue (X999) ---
-Géré: Le produit avec le code 'X999' n'a pas été trouvé dans la librairie.
-
---- Test de suppression (M002) ---
-Produit supprimé: Les Nouvelles Tech
 
 --- Liste des produits de la librairie (1 éléments) ---
 MagazineCode: M001, Titre: Programmation Aujourd'hui, Prix HT: 7.99$ (Mois: 12, Numéro: 150)
