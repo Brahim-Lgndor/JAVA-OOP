@@ -6,8 +6,8 @@ This repository contains a collection of my Java projects developed during my DE
 ## 📂 Projects Included
 
 1. **[Bank Management System](./Bank-Management-System)** *Features: Encapsulation, Exception handling, and file-based data storage.*
-2. **[Inventory App](./Gestion-d'une-Librairie)** *Features: Inheritance, Polymorphism, and Graphical User Interface (GUI).*
-3. **[Library System](./Library-System)** *Features: CRUD operations and data structures.*
+2. **[Inventory App](./Inventory-App)** *Features: Inheritance, Polymorphism, and Graphical User Interface (GUI).*
+3. **[Library System](./Gestion-d'une-Librairie)** *Features: CRUD operations and data structures.*
 
 ## 🛠 Skills Demonstrated
 * Strong understanding of Classes, Objects, and Interfaces.
