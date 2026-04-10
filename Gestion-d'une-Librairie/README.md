@@ -26,9 +26,6 @@ This Java application is designed to automate the management of a library's inve
    javac *.java
 
 # 👇🏻 OUTPUT
+[Download/View OUTPUT PDF](./OUTPUT.pdf)
 
-
---- Liste des produits de la librairie (1 éléments) ---
-MagazineCode: M001, Titre: Programmation Aujourd'hui, Prix HT: 7.99$ (Mois: 12, Numéro: 150)
--------------------------------------------------------------------
 
